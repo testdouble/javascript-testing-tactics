@@ -10,7 +10,7 @@
 * create beautiful test techniques
 * discover when testing is valuable
 * typically use jasmine
-* maintain lots of supporting tools, like [Lineman.js](http://linemanjs.com), [jasmine-given](https://github.com/searls/jasmine-given), [jasmine-fixture](https://github.com/searls/jasmine-fixture), [jasmine-stealth](https://github.com/searls/jasmine-fixture), [jasmine-before-all](https://github.com/testdouble/jasmine-before-all), [grunt-jasmine-bundle](https://github.com/testdouble/grunt-jasmine-bundle), etc., …
+* maintain lots of supporting tools, like [Lineman.js](http://linemanjs.com), [jasmine-given](https://github.com/searls/jasmine-given), [jasmine-fixture](https://github.com/searls/jasmine-fixture), [jasmine-stealth](https://github.com/searls/jasmine-fixture), [jasmine-before-all](https://github.com/testdouble/jasmine-before-all), [grunt-jasmine-bundle](https://github.com/testdouble/grunt-jasmine-bundle), …
 
 ## syntax
 
@@ -24,7 +24,7 @@
 * Jasmine DSL has to be learned
 * idiomatic usage is non-obvious
 * produces distracting, verbose code
-* dat crying mustache emoticon `});`
+* dat crying mustache emoticon });
 
 ### What I do
 
