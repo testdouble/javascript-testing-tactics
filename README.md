@@ -1,10 +1,6 @@
 # Javascript Testing Tactics
 
-<strong style="
-    font-size: 2.2em;
-    text-align: center;
-    display: block;
-">~ or ~</strong>
+**~ or ~**
 
 # How my JavaScript Tests differ from the README.
 
