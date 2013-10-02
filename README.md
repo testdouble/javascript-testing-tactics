@@ -1,5 +1,11 @@
 # Javascript Testing Tactics
 
+<strong style="
+    font-size: 2.2em;
+    text-align: center;
+    display: block;
+">~ or ~</strong>
+
 # How my JavaScript Tests differ from the README.
 
 ## background
@@ -8,7 +14,7 @@
 * create beautiful test techniques
 * discover when testing is valuable
 * typically use jasmine
-* maintain lots of supporting tools, like Lineman.js, jasmine-given, jasmine-fixture, jasmine-stealth, jasmine-before-all, grunt-jasmine…
+* maintain lots of supporting tools, like [Lineman.js](http://linemanjs.com), [jasmine-given](https://github.com/searls/jasmine-given), [jasmine-fixture](https://github.com/searls/jasmine-fixture), [jasmine-stealth](https://github.com/searls/jasmine-fixture), [jasmine-before-all](https://github.com/testdouble/jasmine-before-all), [grunt-jasmine-bundle](https://github.com/testdouble/grunt-jasmine-bundle), etc., …
 
 ## syntax
 
@@ -22,7 +28,7 @@
 * Jasmine DSL has to be learned
 * idiomatic usage is non-obvious
 * produces distracting, verbose code
-* dat crying mustache emoticon });
+* dat crying mustache emoticon `});`
 
 ### What I do
 
@@ -34,8 +40,8 @@
 ### What I don't do
 
 * default plain HTML test runner
-* jasmine-rails
-* jasmine-maven-plugin
+* [jasmine-rails](https://github.com/searls/jasmine-rails)
+* [jasmine-maven-plugin](https://github.com/searls/jasmine-maven-plugin)
 * any server-side-dependent plugin
 
 ### What's the problem?
@@ -102,7 +108,7 @@
 
 ### What I don't do
 
-* say "(╯°□°）╯︵ ┻━<table/>━┻" and skip writing tests against the DOM
+* say "(╯°□°）╯︵ ┻━&lt;table/&gt;━┻" and skip writing tests against the DOM
 
 * use HTML fixture files
 
@@ -121,7 +127,7 @@
 
 * large input -> larger everything
 * tests should push for small units
-* sharing fixtures leads to a  "_Tragedy of the Commons_"
+* sharing fixtures leads to a  _Tragedy of the Commons_
 
 ### What I do
 
@@ -134,14 +140,14 @@
 ## in summary
 
 > Practicing TDD in JS for
-  years taught me how to
-  write better code.
-
-  When TDD feels rote, it
-  means I learned something!
-  So then I use it less.
-
-  Give it a try! I'll help!
+> years taught me how to
+> write better code.
+>
+> When TDD feels rote, it
+> means I learned something!
+> So then I use it less.
+>
+>  Give it a try! I'll help!
 
 ## Lineman
 
@@ -154,5 +160,7 @@ You can have all these helpers pre-installed and ready to go for you with Linema
 <hr/>
 
 My name is **Justin Searls**
+
 Please tweet me **[@searls](http://twitter.com/searls)** &
+
 Say [hello@testdouble.com](mailto:hello@testdouble.com)
